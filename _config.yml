@@ -4,7 +4,7 @@ SEOTitle: Ox0f的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: a286167095@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, oxof Blog, 0x0f的博客, 逆向工程, WEB安全,渗透测试, iOS, Apple, iPhone"
+keyword: "Oxof, Oxof Blog, 0x0f的博客, 逆向工程, WEB安全,渗透测试, iOS, Apple, iPhone"
 url: "http://0x0fc.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/0x0fc/0x0fc.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/0x0fc/0x0fc.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "现在就考虑未来，就没法活在当下了!"
-sidebar-avatar: /img/zhelong.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/title.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
