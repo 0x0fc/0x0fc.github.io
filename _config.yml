@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "SW's Blog",
-        href: "http://http://loseme.top"
+        href: "http://loseme.top"
     }
 #,{
 #        title: "简书·BY",
